@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ATSApplicationFontsPath</key>
+	<string>Fonts</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>302.ai</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>Chat302AI</string>
+			</array>
+		</dict>
+	</array>
+	<key>SUEnableInstallerLauncherService </key>
+	<true/>
+	<key>SUFeedURL</key>
+	<string>302.ai</string>
+	<key>SUPublicEDKey</key>
+	<string>1</string>
+</dict>
+</plist>

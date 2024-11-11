@@ -1,0 +1,51 @@
+/* 
+  Localizable.strings
+ //  Chat302AI-Mac
+ //
+ 
+*/
+
+
+"Appearance:" = "外观:";
+"General" = "常规";
+"Appearance" = "外观";
+"Light" = "浅色";
+"Dark" = "深色";
+"Auto" = "跟随系统";
+"Code" = "代码";
+"Inline Highlight:" = "内联高亮";
+"Syntax Highlight Theme" = "语法高亮主题";
+"Markdown Preview" = "Markdown预览";
+"Here’s an inline code sample,followed by a code block:" = "下面是一个内联代码示例，后面跟着一个代码块：";
+
+
+
+
+
+
+"Account" = "账号";
+"Server-Side Models" = "服务器端模型";
+
+"Local Models" = "本地模型";
+"GGUF Model:" = "GGUF模型:";
+"Local models will run" = "本地模型将运行";
+
+"Miscellaneous" = "其他";
+"302.AI Keyboard Shortcut:" = "对话快捷键:";
+"Generation Mode Shortcut:" = "生成模式快捷方式:";
+"Hide dock icon" = "隐藏dock图标";
+"Open automatically at login" = "登录时自动打开";
+"Automatically clear chat after:" = "自动清除聊天:";
+
+"15 minutes" = "15分钟后";
+"1 hour" = "1小时后";
+"1 day" = "1天后";
+"Never" = "从不";
+
+
+"Type your message" = "请在此输入";
+"New Conversation" = "新建会话";
+"Settings" = "设置";
+"Settings..." = "设置";
+"About" = "关于";
+"Quit" = "退出";
