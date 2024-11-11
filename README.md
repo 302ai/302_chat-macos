@@ -20,7 +20,7 @@ That's it! You can now launch Chat302AI from your Applications folder or using t
 1. Clone the repository:
    ```bash
    git clone [https://github.com/huggingface/chat-macOS.git](https://github.com/302ai/chat-macos)
-   cd HuggingChat-macOS
+   cd Chat302AI-macOS
    ```
 2. Open `Chat302AI-macOS.xcodeproj` in Xcode
 3. Select your development team in the project settings if you plan to run on a physical device
