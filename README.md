@@ -1,5 +1,5 @@
 <p align="center" style="margin-bottom: 0;">
-  <img src="assets/AppIcon.png" alt="Chat302AI macOS">
+  <img src="assets/banner.png" alt="Chat302AI macOS">
 </p>
 <h1 align="center" style="margin-top: 0;">Chat302AI macOS</h1>
  
