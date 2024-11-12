@@ -22,7 +22,7 @@ That's it! You can now launch 302Chat from your Applications folder or using the
 #### Building the Project
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/huggingface/chat-macOS.git](https://github.com/302ai/chat-macos)
+   git clone https://github.com/302ai/302_chat_macOS.git
    cd Chat302AI-macOS
    ```
 2. Open `Chat302AI-macOS.xcodeproj` in Xcode
