@@ -183,8 +183,9 @@ struct GeneralSettingsView: View {
                 }
             } receiveValue: { models in
                 
-                var mArr : [AI302Model] = models
-                 
+                let mArr : [AI302Model] = models
+                  
+                print("getAI302Models:\(mArr.count)")
                 let filteredModels = mArr.filter { model in
                     !elementsToRemove.contains(model.id)
                 }

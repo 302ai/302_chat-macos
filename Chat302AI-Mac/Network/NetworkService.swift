@@ -166,12 +166,12 @@ final class NetworkService {
 
             do {
                 if let dictionary = try JSONSerialization.jsonObject(with: data, options: []) as? [String: Any] {
-                   
                     
                     let dataArr = dictionary["data"]
                     if let jsonArr = try? JSONSerialization.data(withJSONObject: dataArr as Any, options: []) {
                         
                         let models = try decoder.decode(T.self, from: jsonArr)
+                        
                         return models
                         
                     } else {
@@ -181,6 +181,7 @@ final class NetworkService {
                 }
                   
                 let models = try decoder.decode(T.self, from: data)
+                 
                 return models
             } catch {
                 throw HFError.decodeError(error)
