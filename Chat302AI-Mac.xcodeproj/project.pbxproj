@@ -367,7 +367,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Chat302AI-Mac/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = 302.AI;
+				INFOPLIST_KEY_CFBundleDisplayName = Chat302;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.productivity";
 				INFOPLIST_KEY_LSUIElement = NO;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "Copyright © 2024 SONIER PTE. LTD. All rights reserved.";
@@ -403,7 +403,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Chat302AI-Mac/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = 302.AI;
+				INFOPLIST_KEY_CFBundleDisplayName = Chat302;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.productivity";
 				INFOPLIST_KEY_LSUIElement = NO;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "Copyright © 2024 SONIER PTE. LTD. All rights reserved.";

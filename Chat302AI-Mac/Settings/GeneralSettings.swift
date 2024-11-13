@@ -58,7 +58,7 @@ struct GeneralSettingsView: View {
             
             
             Section(content: {
-                LabeledContent("302.AI:", content: {
+                LabeledContent("Chat302:", content: {
                     Picker("", selection: $selectedExternalModel) {
                         ForEach(externalAI302Models, id: \.id) { option in
                             Text("\(option.id)")

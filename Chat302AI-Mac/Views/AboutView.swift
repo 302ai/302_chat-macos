@@ -51,7 +51,7 @@ struct AboutView: View {
             }
             .padding(.horizontal)
             VStack(alignment: .leading) {
-                Text("302.AI")
+                Text("Chat302")
                     .font(.largeTitle)
                     .fontWeight(.semibold)
                 Text("Version: \(Bundle.main.appVersionLong) (\(Bundle.main.appBuild)) ")
